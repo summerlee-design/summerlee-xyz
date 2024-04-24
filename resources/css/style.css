@@ -800,10 +800,7 @@ a:hover {
 	}
 
 	#hero-section {
-		/* background-image: url("../img/bg-summer.jpeg");
-		background-size: cover; */
 		background-color: #243949;
-		margin-bottom: 24px;
 		padding-bottom: 60px;
 	}
 
@@ -857,10 +854,7 @@ a:hover {
 	}
 
 	#hero-section {
-		/* background-image: url("../img/bg-summer.jpeg");
-		background-size: cover; */
 		background-color: #243949;
-		margin-bottom: 24px;
 		padding-bottom: 80px;
 	}
 
@@ -983,10 +977,7 @@ a:hover {
 
 @media only screen and (min-width: 1367pt) and (max-width: 1920pt) {
 	#hero-section {
-		/* background-image: url("../img/bg-summer.jpeg");
-		background-size: cover; */
 		background-color: #243949;
-		margin-bottom: 24px;
 		padding-bottom: 120px;
 	}
 
