@@ -9,16 +9,16 @@ button {
 }
 
 .casestudy-dim {
-	background-color: #333;
+	background-color: #222;
 	color: white;
 }
 
 .casestudy-dim h3 {
-	color: #333;
+	color: #222;
 }
 
 .casestudy-dim .case-p {
-	color: #333;
+	color: #222;
 }
 
 #case-studies {
@@ -27,22 +27,22 @@ button {
 }
 
 .testimonals-dim {
-	background-color: #333;
+	background-color: #222;
 	color: white;
 }
 
 .testimonals-dim i {
-	color: #333;
+	color: #222;
 }
 
 .contact-dim {
-	background-color: #333;
+	background-color: #222;
 	color: white;
 	padding-bottom: 30px;
 }
 
 .copyright-dim {
-	background-color: #333;
+	background-color: #222;
 	color: white;
 }
 
