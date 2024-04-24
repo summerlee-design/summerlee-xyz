@@ -8,6 +8,44 @@ button {
 	letter-spacing: 0.4px;
 }
 
+.casestudy-dim {
+	background-color: #333;
+	color: white;
+}
+
+.casestudy-dim h3 {
+	color: #333;
+}
+
+.casestudy-dim .case-p {
+	color: #333;
+}
+
+#case-studies {
+	padding-top: 40px;
+	padding-bottom: 60px;
+}
+
+.testimonals-dim {
+	background-color: #333;
+	color: white;
+}
+
+.testimonals-dim i {
+	color: #333;
+}
+
+.contact-dim {
+	background-color: #333;
+	color: white;
+	padding-bottom: 30px;
+}
+
+.copyright-dim {
+	background-color: #333;
+	color: white;
+}
+
 .card {
 	border: 2px solid #EEEEEE;
 	border-radius: 16px;
@@ -16,6 +54,16 @@ button {
 	margin-bottom: 20px;
 	background-color: #FFFFFF;
 	box-shadow: 0px 1px 5px 2px #EEEEEE;
+}
+
+.card-dim {
+	border: 2px solid #333;
+	border-radius: 16px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-bottom: 20px;
+	background-color: #EEE;
+	box-shadow: 0px 1px 5px 2px #222;
 }
 
 .test-card {
@@ -29,8 +77,28 @@ button {
 	box-shadow: 0px 1px 5px 2px #EEEEEE;
 }
 
+.test-card-dim {
+	border: 2px solid #333;
+	border-radius: 16px;
+	padding-top: 15px;
+	padding-right: 24px;
+	padding-bottom: 15px;
+	margin-bottom: 30px;
+	background-color: #EEE;
+	box-shadow: 0px 1px 5px 2px #222;
+}
+
 .btn-card {
 	box-shadow: 0px 0px 8px 1px #223747;
+}
+
+#contact {
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+#copyright {
+	padding-top: 40px;
 }
 
 nav {
@@ -176,10 +244,7 @@ p.subpage {
 }
 
 #hero-section {
-	/* background-image: url("../img/bg-summer.jpeg");
-	background-size: cover; */
 	background-color: #243949;
-	margin-bottom: 24px;
 	padding-bottom: 30px;
 }
 
@@ -335,8 +400,17 @@ h3 {
 	color: #ccc;
 	text-align: center;
 	margin-top: -10px;
-	font-weight: 400i;
+	font-weight: 400;
 	padding-bottom: 10px;
+}
+
+#copyright-dim {
+	color: #ccc;
+	text-align: center;
+	margin-top: -10px;
+	font-weight: 400;
+	padding-bottom: 10px;
+	background-color: #333;
 }
 
 nav a {
@@ -376,8 +450,13 @@ a:hover {
 .hr {
 	width: 40%;
 	margin: 0 auto;
-	margin-top: 40px;
-	margin-bottom: 30px;
+	height: 1px;
+	background-color: #ccc;
+}
+
+.hr-dim {
+	width: 40%;
+	margin: 0 auto;
 	height: 1px;
 	background-color: #ccc;
 }
@@ -814,10 +893,7 @@ a:hover {
 
 @media only screen and (min-width: 1024pt) and (max-width: 1367pt) {
 	#hero-section {
-		/* background-image: url("../img/bg-summer.jpeg");
-		background-size: cover; */
 		background-color: #243949;
-		margin-bottom: 24px;
 		padding-bottom: 100px;
 	}
 
@@ -847,7 +923,7 @@ a:hover {
 	}
 
 	h2 {
-		padding-top: 15px;
+		padding-top: 40px;
 		margin-top: 15px;
 		margin-bottom: 20px;
 		font-size: 34px;
